@@ -27,3 +27,4 @@ source/.jekyll-metadata
 *.suo
 tags*
 /create-blog-post
+.env
